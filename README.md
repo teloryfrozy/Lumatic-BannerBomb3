@@ -3,7 +3,9 @@
 ⚠️ ONLY FOR VERSION 11.16 consoles ⚠️
 
 🤖 Say goodbye to manual configurations and tedious tasks, and let this automation tool do the work for you.
+
 ✅ Tested on more than 20 consoles without a single issue!
+
 ✨ Nintendo consoles compatibility (works for every 8th gen console)
   * 2ds
   * 3ds
