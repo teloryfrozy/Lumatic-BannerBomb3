@@ -1,0 +1,154 @@
+{
+    "selected": "english",
+    "pop-ups": "True",
+    "english": {
+        "settingsMenu": {
+            "sett": "Settings",
+            "languagesMenu": {
+                "lang": "Languages",
+                "en": "English",
+                "fr": "French",
+                "de": "German"
+            },
+            "preferencesMenu": {
+                "prefs": "Preferences",
+                "pops-enable": "Enable pop-ups",
+                "pops-disable": "Disable pop-ups"
+            }
+        },
+        "tutorialsMenu": {
+            "tuto": "Tutorials",
+            "hackMenu": {
+                "progress": "Progression of hack",
+                "hack": "Hack",
+                "tip1": "Install the required files to hack your console\n - CTW Luma\n - God Mod 9\n - Homebrews (FBI & Anemone)",
+                "tip2": "Install the required files to hack your console\n - 70+ games (NDS, 3DS, GB, NES)\n - 10 themes",
+                "sdCapacity": "SD card capacity",
+                "askStorage": "\u26a0 [SD] 32Gb required \u26a0\nHave you enough storage?",
+                "sd": "SD card",
+                "warn": "Prerequisites",
+                "steps": "1) No parralel download allowed\n 2) Format the SD card in FAT32\n 3) Start the console once",
+                "ntFound": "SD Card not found",
+                "insertSD": "Please insert it correctly",
+                "ejectSD": "Please eject your SD card and finalize the hack on your console",
+                "fc": "Get friend code",
+                "fb": "Friend Bot",
+                "addBot": "Please add this bot with Internet:\n",
+                "clear": "Clear",
+                "entry": "Enter your friend code",
+                "cias": "Install cias files",
+                "ctw": "Install custom firmware",
+                "gm9": "Install GodMode 9",
+                "wifi": "Restore wifi slots"
+            },
+            "appsMenu": {
+                "apps": "Applications",
+                "twi": "Play a game with Twilight",
+                "themesI": "Install themes",
+                "themes": "List of themes",
+                "games": "List of games",
+                "hshop": "Install games with hshop"
+            }
+        }
+    },
+    "french": {
+        "settingsMenu": {
+            "sett": "Param\u00e8tres",
+            "languagesMenu": {
+                "lang": "Languages",
+                "en": "Anglais",
+                "fr": "Fran\u00e7ais",
+                "de": "Allemand"
+            },
+            "preferencesMenu": {
+                "prefs": "Pr\u00e9f\u00e9rences",
+                "pops-enable": "Activer les pop-ups",
+                "pops-disable": "D\u00e9sactiver les pop-ups"
+            }
+        },
+        "tutorialsMenu": {
+            "tuto": "Tutoriels",
+            "hackMenu": {
+                "progress": "Progression du hack",
+                "hack": "Hack",
+                "tip1": "Installe les fichiers n\u00e9cessaires pour pirater votre console\n - CTW Luma\n - God Mod 9\n - Homebrews (FBI & Anemone)",
+                "tip2": "Installe les fichiers n\u00e9cessaires pour pirater votre console\n - 70+ jeux (NDS, 3DS, GB, NES)\n - 10 th\u00e8mes",
+                "sd": "Carte SD",
+                "sdCapacity": "Capacit\u00e9 de la carte SD",
+                "askStorage": "\u26a0 [SD] 32Go requis \u26a0\nAvez vous assez de place ?",
+                "warn": "Pr\u00e9requis",
+                "steps": "1) Pas de t\u00e9l\u00e9chargement parall\u00e8le autoris\u00e9\n 2) Formatez la carte SD en FAT32\n 3) D\u00e9marrez la console une fois",
+                "ntFound": "Carte SD non trouv\u00e9e",
+                "insertSD": "Veuillez l'ins\u00e9rer correctement",
+                "ejectSD": "Veuillez retirer votre carte SD et finaliser le hack sur votre console",
+                "fc": "Obtenir le code ami",
+                "fb": "Friend Bot",
+                "addBot": "Veuillez ajouter ce bot avec Internet:\n",
+                "clear": "Supprimer",
+                "entry": "Entez votre code ami",
+                "cias": "Installer les fichiers cias",
+                "ctw": "Installer l'OS modifi\u00e9",
+                "gm9": "Installer GodMode 9",
+                "wifi": "Restaurer les slots wifi"
+            },
+            "appsMenu": {
+                "apps": "Applications",
+                "twi": "Jouer \u00e0 un jeu avec Twilight",
+                "themesI": "Installer les th\u00e8mes",
+                "themes": "Liste des th\u00e8mes",
+                "games": "Liste des jeux",
+                "hshop": "Spiele mit hshop installieren"
+            }
+        }
+    },
+    "german": {
+        "settingsMenu": {
+            "sett": "Parameter",
+            "languagesMenu": {
+                "lang": "Sprachen",
+                "en": "Englisch",
+                "fr": "Franz\u00f6sisch",
+                "de": "Deutsch"
+            },
+            "preferencesMenu": {
+                "prefs": "Pr\u00e4ferenzen",
+                "pops-enable": "Pop-ups aktivieren",
+                "pops-disable": "Pop-ups deaktivieren"
+            }
+        },
+        "tutorialsMenu": {
+            "tuto": "Tutorials",
+            "hackMenu": {
+                "progress": "Fortschritt des Hacks",
+                "hack": "Hack",
+                "tip1": "Installieren Sie die erforderlichen Dateien, um Ihre Konsole zu hacken\n - CTW Luma\n - God Mod 9\n - Homebrews (FBI & Anemone)",
+                "tip2": "Installieren Sie die erforderlichen Dateien, um Ihre Konsole zu hacken\n - 70+ Spiele (NDS, 3DS, GB, NES)\n - 10 Themen",
+                "sdCapacity": "SD-Kartengr\u00f6\u00dfe",
+                "askStorage": "\u26a0 [SD] 32 GB erforderlich \u26a0\nHaben Sie gen\u00fcgend Speicherplatz?",
+                "sd": "SD-Karte",
+                "warn": "Voraussetzungen",
+                "steps": "1) Kein paralleler Download erlaubt\n 2) Formatieren Sie die SD-Karte im FAT32-Format\n 3) Starten Sie die Konsole einmal",
+                "ntFound": "SD-Karte nicht gefunden",
+                "insertSD": "Bitte korrekt einlegen",
+                "ejectSD": "Bitte entfernen Sie Ihre SD-Karte und schlie\u00dfen Sie den Hack auf Ihrer Konsole ab",
+                "fc": "Freundescode erhalten",
+                "fb": "Freund Bot",
+                "addBot": "Bitte f\u00fcgen Sie diesen Bot \u00fcber das Internet hinzu:\n",
+                "clear": "L\u00f6schen",
+                "entry": "Freundescode eingeben",
+                "cias": "cias-Dateien installieren",
+                "ctw": "Eigene Firmware installieren",
+                "gm9": "GodMode 9 installieren",
+                "wifi": "Wifi-Slots wiederherstellen"
+            },
+            "appsMenu": {
+                "apps": "Applikationen",
+                "twi": "Ein Spiel mit Twilight spielen",
+                "themesI": "Themen installieren",
+                "themes": "Liste der Themen",
+                "games": "Liste der Spiele",
+                "coins": "[BONUS] Erhalten Sie 300 M\u00fcnzen"
+            }
+        }
+    }
+}
