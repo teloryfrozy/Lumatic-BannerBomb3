@@ -22,6 +22,7 @@
 
   👉 Due to changes in the 11.17 version, the exploit is no longer supported on this version. This tool is only working for users with version 11.16 consoles.  
   👉 The following folders are empty:
+  
     - "ressources/games" : put the .cia files that you want to install using the hack + apps method
     - "ressources/roms"  : put the roms of your favorite retro-games inside (not the .3ds files, only the ones that works with TWiLightMenu
     - "ressources/Themes": put the themes (.zip files) that you want to see on the background of your console      
