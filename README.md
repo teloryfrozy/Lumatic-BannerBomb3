@@ -2,7 +2,6 @@
 
 ⚠️ ONLY FOR VERSION 11.16 consoles ⚠️
 
-# --------- Description --------- #
 🤖 Say goodbye to manual configurations and tedious tasks, and let this automation tool do the work for you.
 ✅ Tested on more than 20 consoles without a single issue!
 ✨ Nintendo consoles compatibility (works for every 8th gen console)
@@ -21,5 +20,5 @@
   👉 This tool does all the computer part but you still have to do the manual part on your console. You can find the official guide here: https://3ds.hacks.guide/bannerbomb3.html
 
 
-# --------- Tags --------- #
+
 #luma #ConsoleAutomation #Efficiency #Reliability #Gaming
