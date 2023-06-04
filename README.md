@@ -17,7 +17,9 @@
   - Enhanced Efficiency: Completes the process quickly and efficiently
 
 💡 Notes:
+
   👉 Due to changes in the 11.17 version, the exploit is no longer supported on this version. This tool is only working for users with version 11.16 consoles.
+  
   👉 This tool does all the computer part but you still have to do the manual part on your console. You can find the official guide here: https://3ds.hacks.guide/bannerbomb3.html
 
 
