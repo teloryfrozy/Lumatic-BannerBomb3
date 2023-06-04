@@ -12,7 +12,6 @@
   * New 3ds
   * New 3ds XL
   * New 2ds XL
-  * 
 🚀 Key Features:
   - Effortless Installation: Automates all the necessary steps for installing Luma
   - Enhanced Efficiency: Completes the process quickly and efficiently
